@@ -36,8 +36,11 @@
 ### Flytt fra kø til annen kø:
 	00001 q "Kø 1" >> "Kø 2"
 	
-### Løs saken:
+## Løs saken:
 	00001 S
+
+### Stille løsning:
+	00001 S-
 	
 ## Svar på saken
 
